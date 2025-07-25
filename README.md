@@ -1,6 +1,7 @@
 # EzyBiz - Business Management Solution
 
-![EzyBiz Logo](https://via.placeholder.com/150x50?text=EzyBiz) <!-- Replace with actual logo if available -->
+![a](https://github.com/user-attachments/assets/1c05bf8b-51ad-4477-b359-7f30be730470)
+
 
 EzyBiz is a comprehensive business management solution designed to streamline operations for small to medium-sized enterprises (SMEs). It simplifies daily tasks, enhances productivity, and provides actionable insights for better decision-making.
 

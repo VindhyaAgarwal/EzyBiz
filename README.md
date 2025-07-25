@@ -114,8 +114,5 @@ We welcome contributions to EzyBiz! If you'd like to contribute, please follow t
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
-This project is licensed under the [Specify License, e.g., MIT License] - see the `LICENSE.md` file for details.
-
 ## Contact
 For any inquiries or support, please contact `VindhyaAgarwal`.
